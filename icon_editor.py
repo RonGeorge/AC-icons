@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import json
 
-DB_PATH = "C:/GitHub/AC-icons/acicons.db"
+DB_PATH = "acicons.db"
 ICON_SIZE = 32
 WINDOW_TITLE = "Asheron's Call Icon Database Editor"
 BG_COLOR = "#f0f0f0"
