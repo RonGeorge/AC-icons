@@ -7,7 +7,7 @@ import json
 
 DB_PATH = "C:/GitHub/AC-icons/acicons.db"
 ICON_SIZE = 32
-WINDOW_TITLE = "Demonic Icon Database Editor"
+WINDOW_TITLE = "Asheron's Call Icon Database Editor"
 BG_COLOR = "#f0f0f0"
 FONT_COLOR = "#000000"
 FONT_FAMILY = "Segoe UI"
