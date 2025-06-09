@@ -45,4 +45,10 @@ KEYWORDS_POPUP_HEIGHT = 20
 
 ![Editing screenshot](https://i.imgur.com/hr3ohyH.png)
 
+## Icon Viewer
+
+You can right click in the middle of the item to get the metadata edit.
+
 ![Icon Viewer](https://i.imgur.com/DdNV7f3.png)
+
+![Icon Viewer](https://i.imgur.com/bH4jcdE.png)
