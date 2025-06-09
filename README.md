@@ -8,6 +8,8 @@ I exported all of the icons from the AC Icon Viewer that has been floating aroun
 
 This python application is designed for content creators to be able to reference the 10,000 icons present in the portal.dat file.
 
+There are 2 applications. The editor (`icon_editor.py`) and the viewer (`scripts\icon_viewer.py`). The viewer is just a lightweight viewer of the database with searching .
+
 ## Features
 
 1. Paginated Search looks in all fields for matches.
