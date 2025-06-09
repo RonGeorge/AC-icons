@@ -44,3 +44,5 @@ KEYWORDS_POPUP_HEIGHT = 20
 3. I've included `source\weenies_all_icons_hex_latest.csv` which is the master list I used building the database of weenie ids, names, icon values, etc. Good for searching.
 
 ![Editing screenshot](https://i.imgur.com/hr3ohyH.png)
+
+![Icon Viewer](https://i.imgur.com/DdNV7f3.png)
