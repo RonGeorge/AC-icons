@@ -10,7 +10,9 @@ This python application is designed for content creators to be able to reference
 
 There are 2 applications. The editor (`icon_editor.py`) and the viewer (`icon_viewer.py`). The viewer is just a lightweight viewer of the database with searching .
 
+## Version 2.0 Changes
 
+I went and found all the mismatched icons of various sizes and added them. Mostly UI icons. I then added in categories of the icons, but let me tell you... they suck. I'm going to have to do some more work on that. I also tweaked some bugs that were in dark mode. Enjoy.
 
 ## Features
 
