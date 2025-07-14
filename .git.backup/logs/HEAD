@@ -1,0 +1,8 @@
+106bf2ac4d015ca684e32e66ca6eb204d52fb446 106bf2ac4d015ca684e32e66ca6eb204d52fb446 RonGeorge <ron@rongeorge.com> 1752527694 -0400	checkout: moving from main to sandbox
+106bf2ac4d015ca684e32e66ca6eb204d52fb446 c4a65b4cfc1072f05a1eca71cb9e3097b1ca3520 RonGeorge <ron@rongeorge.com> 1752528103 -0400	commit: lots of work
+c4a65b4cfc1072f05a1eca71cb9e3097b1ca3520 0d20bfd02c5d7336f9caf0b9a0e4353284f116f8 RonGeorge <ron@rongeorge.com> 1752532540 -0400	commit: sandbox
+0d20bfd02c5d7336f9caf0b9a0e4353284f116f8 0d20bfd02c5d7336f9caf0b9a0e4353284f116f8 RonGeorge <ron@rongeorge.com> 1752532907 -0400	reset: moving to HEAD
+0d20bfd02c5d7336f9caf0b9a0e4353284f116f8 106bf2ac4d015ca684e32e66ca6eb204d52fb446 RonGeorge <ron@rongeorge.com> 1752532923 -0400	checkout: moving from sandbox to main
+106bf2ac4d015ca684e32e66ca6eb204d52fb446 106bf2ac4d015ca684e32e66ca6eb204d52fb446 RonGeorge <ron@rongeorge.com> 1752532957 -0400	checkout: moving from main to selective-edits
+106bf2ac4d015ca684e32e66ca6eb204d52fb446 1fcd7935ff844141885c9a3c5ed8d7b890c7bdbc RonGeorge <ron@rongeorge.com> 1752533292 -0400	commit: commiot
+1fcd7935ff844141885c9a3c5ed8d7b890c7bdbc 0d20bfd02c5d7336f9caf0b9a0e4353284f116f8 RonGeorge <ron@rongeorge.com> 1752533299 -0400	checkout: moving from selective-edits to sandbox
