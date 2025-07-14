@@ -2,7 +2,7 @@
 
 Asheron's Call Icon Database Editor
 
-![AC-icons Screenshot](https://i.imgur.com/dHPdJ5N.png)
+![AC-icons Screenshot](https://i.imgur.com/exIp5u5.png)
 
 I exported all of the icons from the AC Icon Viewer that has been floating around for years. Then I matched those icons with their names from the database. I then did a few passes with mistral and llava to try and get decent keywords.
 
